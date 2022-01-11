@@ -16,7 +16,7 @@ The following steps are followed in the project:
 8. Testing model on real data.
 9. Printing the confusion matrix.
 
-### Support Vector Machine (SVM)
+## Support Vector Machines (SVMs)
 
 Support vector machines (SVMs) are a set of supervised learning methods used for classification, regression and outliers detection.
 
